@@ -6,13 +6,17 @@ The aim of this project is to be able to specify features for a building and hav
 
 Inspiration:
 
+South Australian Health and Medical Research Institute in Adelaide,SA Australia. This shows an example of an external horizontal louvered facade. It looks like a bunch of potato chips on the outside of a building.
 
 ![South Australian Health and Medical Research Institute in Adelaide,SA Australia. This shows an example of an external horizontal louvered facade. It looks like a bunch of potato chips on the outside of a building.](South_Australian_Health_and_Medical_Research_Institute_Adelaide_SA_Australia.jpg)
 
+A facade design with both horizontal and vertical components on a rounded building.
 ![A facade design with both horizontal and vertical components on a rounded building.](Esplanade_Theaters_on_the_bay.jpg)
 
-![A horizontal louvered facade design on a at least two story building.](Terracotta_Tile_Facade_Facing_Brick_System_Facade_Metal_James_and_Taylor_Solar_Shading.jpg)
+A horizontal louvered facade design on a at least two story building made by James and Taylor Solar Shading. 
+![A horizontal louvered facade design on a at least two story building made by James and Taylor Solar Shading. ](Terracotta_Tile_Facade_Facing_Brick_System_Facade_Metal_James_and_Taylor_Solar_Shading.jpg)
 
+The horizontal louvered facade of an advertizing agency in São Paulo
 ![The horizontal louvered facade of an advertizing agency in São Paulo](Triptyque-Agência-de-publicidade-Loducca-São-Paulo-Revista-Projeto.jpg)
 
 The model has been written with assistance from ChatGPT.
